@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Experiments" size="10.000000 10.000000" />
+    <ImageTarget name="CoverGlass" size="10.000000 10.000000" />
+    <ImageTarget name="Cup" size="10.000000 10.000000" />
+    <ImageTarget name="PetriDish" size="10.000000 10.000000" />
+    <ImageTarget name="WhyGlass" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
